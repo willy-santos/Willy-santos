@@ -3,6 +3,7 @@
 🎓 Estudante de Engenharia de Software  
 💻 Interessado em tecnologia e desenvolvimento de software  
 🚀 Desenvolvendo projetos práticos para aplicar e aprimorar meus conhecimentos
+
 📚 Sempre buscando aprender e evoluir
 
 ## Sobre mim
