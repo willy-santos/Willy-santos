@@ -18,6 +18,8 @@ Também venho estudando desenvolvimento web, Git e GitHub, criando projetos para
 
 Sistema web desenvolvido para facilitar o gerenciamento de grupos familiares, membros, reuniões, lições e relatórios.
 
+Durante o desenvolvimento, também realizei testes manuais, identificando e corrigindo problemas relacionados a autenticação, proteção de rotas, permissões e persistência de dados.
+
 - React e TypeScript
 - TanStack Start e TanStack Router
 - Supabase
