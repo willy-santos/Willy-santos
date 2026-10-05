@@ -1,8 +1,8 @@
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software   
 🧪 Tenho interesse em QA e testes de software  
 💻 Desenvolvendo projetos para colocar meus conhecimentos em prática  
 🔧 Aprendendo Git, GitHub e automação de testes  
-📚 Sempre buscando aprender mais 
+📚 Sempre buscando aprender mais  
 
 ## Sobre mim
 
@@ -31,6 +31,7 @@ Sistema web desenvolvido para facilitar o gerenciamento de grupos familiares, me
 Site de convite digital desenvolvido para um evento de 15 anos, com identidade visual inspirada no universo e no espaço.
 
 [Ver demonstração](https://ana-kemilly-demo.universoconvite.workers.dev/) | [Ver código no GitHub](https://github.com/Willy-santos/ana-kemilly-15-anos)
+
 ## Atualmente aprendendo
 
 - Fundamentos de QA e testes de software
@@ -39,6 +40,12 @@ Site de convite digital desenvolvido para um evento de 15 anos, com identidade v
 - Automação de testes
 - Desenvolvimento web
 - Organização e documentação de projetos
+
+## Uso de inteligência artificial
+
+Utilizo ferramentas de inteligência artificial como apoio durante o desenvolvimento dos meus projetos, principalmente para pesquisa, aprendizado, análise de erros, entendimento de tecnologias e busca por soluções.
+
+Procuro entender as soluções utilizadas e aplicar os conhecimentos durante o desenvolvimento, fazendo os ajustes e testes necessários nos projetos.
 
 ## Contato
 
