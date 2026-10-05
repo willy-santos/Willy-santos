@@ -14,8 +14,23 @@ Também venho estudando desenvolvimento web, Git e GitHub, criando projetos para
 
 ## Projetos
 
-Aqui estão alguns dos projetos que venho desenvolvendo para colocar meus conhecimentos em prática.
+### Grupo Familiar
 
+Sistema web desenvolvido para facilitar o gerenciamento de grupos familiares, membros, reuniões, lições e relatórios.
+
+- React e TypeScript
+- TanStack Start e TanStack Router
+- Supabase
+- Cloudflare Workers
+- Interface responsiva e suporte a PWA
+
+[Ver demonstração](https://willy-santos-grupo-familiar-demo.universoconvite.workers.dev) | [Ver código no GitHub](https://github.com/Willy-santos/grupo-familiar-demo)
+
+### Ana Kemilly — 15 anos
+
+Site de convite digital desenvolvido para um evento de 15 anos, com identidade visual inspirada no universo e no espaço.
+
+[Ver projeto no GitHub](https://github.com/Willy-santos/ana-kemilly-15-anos)
 ## Atualmente aprendendo
 
 - Fundamentos de QA e testes de software
