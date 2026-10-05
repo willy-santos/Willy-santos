@@ -1,8 +1,8 @@
-🎓 Estudante de Engenharia de Software
-🧪 Tenho interesse em QA e testes de software
-💻 Desenvolvendo projetos para colocar meus conhecimentos em prática
-🔧 Aprendendo Git, GitHub e automação de testes
-📚 Sempre buscando aprender mais
+🎓 Estudante de Engenharia de Software  
+🧪 Tenho interesse em QA e testes de software  
+💻 Desenvolvendo projetos para colocar meus conhecimentos em prática  
+🔧 Aprendendo Git, GitHub e automação de testes  
+📚 Sempre buscando aprender mais 
 
 ## Sobre mim
 
