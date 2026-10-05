@@ -30,7 +30,7 @@ Sistema web desenvolvido para facilitar o gerenciamento de grupos familiares, me
 
 Site de convite digital desenvolvido para um evento de 15 anos, com identidade visual inspirada no universo e no espaço.
 
-[Ver projeto no GitHub](https://github.com/Willy-santos/ana-kemilly-15-anos)
+[Ver demonstração](https://ana-kemilly-demo.universoconvite.workers.dev/) | [Ver código no GitHub](https://github.com/Willy-santos/ana-kemilly-15-anos)
 ## Atualmente aprendendo
 
 - Fundamentos de QA e testes de software
