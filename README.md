@@ -1,17 +1,16 @@
-# Olá! Eu sou Willy Santos 👋
-
-🎓 Estudante de Engenharia de Software  
-💻 Interessado em tecnologia e desenvolvimento de software  
-🚀 Desenvolvendo projetos práticos para aplicar e aprimorar meus conhecimentos       
-📚 Sempre buscando aprender e evoluir
+🎓 Estudante de Engenharia de Software
+🧪 Tenho interesse em QA e testes de software
+💻 Desenvolvendo projetos para colocar meus conhecimentos em prática
+🔧 Aprendendo Git, GitHub e automação de testes
+📚 Sempre buscando aprender mais
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software e estou construindo minha experiência através de projetos práticos.
+Sou estudante de Engenharia de Software e estou começando a construir minha experiência na área de tecnologia através de projetos próprios.
 
-Tenho interesse em desenvolvimento de software, tecnologia, resolução de problemas e aprendizado contínuo.
+Tenho interesse em QA, testes de software e em entender como as aplicações funcionam, encontrar problemas e buscar formas de melhorar a qualidade dos sistemas.
 
-Atualmente estou aprimorando meus conhecimentos em desenvolvimento web e aprendendo mais sobre Git e GitHub.
+Também venho estudando desenvolvimento web, Git e GitHub, criando projetos para praticar e aprender na prática.
 
 ## Projetos
 
@@ -19,26 +18,13 @@ Aqui estão alguns dos projetos que venho desenvolvendo para colocar meus conhec
 
 ## Atualmente aprendendo
 
+- Fundamentos de QA e testes de software
+- Testes funcionais e exploratórios
 - Git e GitHub
+- Automação de testes
 - Desenvolvimento web
-- Boas práticas de desenvolvimento
 - Organização e documentação de projetos
 
 ## Contato
 
 - GitHub: [Willy-santos](https://github.com/Willy-santos)
-
-<!--
-**willy-santos/Willy-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
