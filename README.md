@@ -49,4 +49,5 @@ Procuro entender as soluções utilizadas e aplicar os conhecimentos durante o d
 
 ## Contato
 
+- E-mail: willykaua01@gmail.com
 - GitHub: [Willy-santos](https://github.com/Willy-santos)
