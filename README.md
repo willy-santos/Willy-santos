@@ -1,6 +1,6 @@
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvendo projetos para colocar meus conhecimentos em prática  
-🧪 Interesse em desenvolvimento web, QA e testes de software  
+🧪 Interesse em desenvolvimento, tecnologia e qualidade de software  
 🔧 Aprendendo Git, GitHub e automação de testes  
 📚 Sempre buscando aprender mais  
 
@@ -8,7 +8,7 @@
 
 Sou estudante de Engenharia de Software e estou começando a construir minha experiência na área de tecnologia através de projetos próprios.
 
-Tenho interesse em desenvolvimento web, QA e testes de software, buscando entender como as aplicações funcionam, encontrar problemas e buscar formas de melhorar os sistemas.
+Tenho interesse em desenvolvimento web, tecnologia e qualidade de software, buscando entender como as aplicações funcionam, encontrar problemas e buscar formas de melhorar os sistemas.
 
 Também venho estudando Git e GitHub e criando projetos para praticar diferentes conceitos de desenvolvimento e tecnologia na prática.
 
@@ -26,7 +26,7 @@ Durante o desenvolvimento, também realizei testes manuais, identificando e corr
 - Cloudflare Workers
 - Interface responsiva e suporte a PWA
 
-[Ver demonstração](https://willy-santos-grupo-familiar-demo.universoconvite.workers.dev) | [Ver código no GitHub](https://github.com/Willy-santos/grupo-familiar-demo)
+[Ver demonstração](https://willy-santos-grupo-familiar-demo.universoconvite.dev) | [Ver código no GitHub](https://github.com/Willy-santos/grupo-familiar-demo)
 
 ### Ana Kemilly — 15 anos
 
