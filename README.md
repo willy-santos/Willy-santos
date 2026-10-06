@@ -1,6 +1,6 @@
-🎓 Estudante de Engenharia de Software   
-🧪 Tenho interesse em QA e testes de software  
+🎓 Estudante de Engenharia de Software  
 💻 Desenvolvendo projetos para colocar meus conhecimentos em prática  
+🧪 Interesse em desenvolvimento web, QA e testes de software  
 🔧 Aprendendo Git, GitHub e automação de testes  
 📚 Sempre buscando aprender mais  
 
@@ -8,9 +8,9 @@
 
 Sou estudante de Engenharia de Software e estou começando a construir minha experiência na área de tecnologia através de projetos próprios.
 
-Tenho interesse em QA, testes de software e em entender como as aplicações funcionam, encontrar problemas e buscar formas de melhorar a qualidade dos sistemas.
+Tenho interesse em desenvolvimento web, QA e testes de software, buscando entender como as aplicações funcionam, encontrar problemas e buscar formas de melhorar os sistemas.
 
-Também venho estudando desenvolvimento web, Git e GitHub, criando projetos para praticar e aprender na prática.
+Também venho estudando Git e GitHub e criando projetos para praticar diferentes conceitos de desenvolvimento e tecnologia na prática.
 
 ## Projetos
 
@@ -36,11 +36,11 @@ Site de convite digital desenvolvido para um evento de 15 anos, com identidade v
 
 ## Atualmente aprendendo
 
+- Desenvolvimento web
 - Fundamentos de QA e testes de software
 - Testes funcionais e exploratórios
 - Git e GitHub
 - Automação de testes
-- Desenvolvimento web
 - Organização e documentação de projetos
 
 ## Uso de inteligência artificial
