@@ -26,7 +26,7 @@ Durante o desenvolvimento, também realizei testes manuais, identificando e corr
 - Cloudflare Workers
 - Interface responsiva e suporte a PWA
 
-[Ver demonstração](https://willy-santos-grupo-familiar-demo.universoconvite.dev) | [Ver código no GitHub](https://github.com/Willy-santos/grupo-familiar-demo)
+[Ver demonstração](https://willy-santos-grupo-familiar-demo.universoconvite.workers.dev) | [Ver código no GitHub](https://github.com/Willy-santos/grupo-familiar-demo)
 
 ### Ana Kemilly — 15 anos
 
